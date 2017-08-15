@@ -115,3 +115,8 @@ libmongoc-1.0-config-version.cmake
 libmongoc-1.0-config.cmake
 libmongoc-static-1.0-config-version.cmake
 libmongoc-static-1.0-config.cmake
+/.buckd/
+/buck-out/
+/buckaroo/
+.buckconfig.local
+BUCKAROO_DEPS
